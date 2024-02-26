@@ -1,6 +1,6 @@
 
-### Hi! I'm Victoria Greever.
-I'm a third year at Rochester Institute of Technology majoring in Biotechnology and Molecular Bioscience with a minor in Museum Studies. I'm interested in bioinformatics and scientific communication, examining how scientists can more effectively communicate ideas to people with non-scientific backgrounds.
+## Hi! I'm Victoria Greever.
+### I'm a third year at Rochester Institute of Technology majoring in Biotechnology and Molecular Bioscience with a minor in Museum Studies. I'm interested in bioinformatics and scientific communication, examining how scientists can more effectively communicate ideas to people with non-scientific backgrounds.
 
 
 
